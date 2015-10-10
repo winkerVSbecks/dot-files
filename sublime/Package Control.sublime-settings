@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emoji",
+		"GitGutter",
+		"Highlight",
+		"Javascript Beautify",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"JSX",
+		"MarkdownLight",
+		"Material Theme",
+		"Package Control",
+		"Rust",
+		"Sass",
+		"SCSS",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Cobalt2",
+		"TrailingSpaces"
+	]
+}

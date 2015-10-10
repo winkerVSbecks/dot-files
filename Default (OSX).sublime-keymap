@@ -1,0 +1,7 @@
+[
+  { "keys": ["super+`"], "command": "next_view" },
+  { "keys": ["super+k", "super+f"], "command": "toggle_distraction_free" },
+  { "keys": ["super+shift+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+  { "keys": ["super+shift+w"], "command": "close_all" },
+  { "keys": ["super+ctrl+space"], "command": "select_emoji" },
+]
